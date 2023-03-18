@@ -5,7 +5,7 @@ export default function About() {
 	return (
 		<div className='container mx-auto my-20 flex justify-between items-center gap-10'>
 			<div className='mb-10'>
-				<h3 className='text-4xl font-bold mb-4'>About us</h3>
+				<h3 className='text-main text-4xl font-bold mb-4'>About us</h3>
 				<p>
 					Kipfel was chosen as our croissant brand name. The name Kipfel is taken from the early history of the cake
 					before it was called a croissant. Inspired by delicious croissants and crescent moons - a symbol of the

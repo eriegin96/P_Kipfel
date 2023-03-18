@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.png';
 export default function Navbar() {
 	return (
 		<div className='bg-dark'>
-			<nav className='text-light container mx-auto flex justify-between items-center py-4'>
+			<nav className='text-main container mx-auto flex justify-between items-center py-4 border-b border-main'>
 				<a href='#'>
 					<img src={logo} alt='logo' width={100} />
 				</a>
