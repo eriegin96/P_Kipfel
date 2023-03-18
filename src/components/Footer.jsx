@@ -75,7 +75,7 @@ export default function Footer() {
 								clip-rule='evenodd'
 							></path>
 						</svg>
-						Address: 72 Le Thanh Ton, District 1, Ho Chi Minh City
+						Address: 72 Le Thanh Ton St., District 1, Ho Chi Minh City
 					</div>
 				</div>
 			</div>
